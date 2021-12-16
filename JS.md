@@ -31,7 +31,7 @@ var num = parseInt("");
 - [ ] undefined
 - [ ] null
 
-> 5. How to push elements in an Arrya?
+> 5. How to push elements in an Array?
 
 - [ ] arr.add(1)
 - [ ] arr.pop(1)
@@ -242,7 +242,7 @@ executeJob([1, 4, 7], "Average");
 - [ ] [LOG] => Operation not valid!
 - [ ] [LOG] => AVG => 4
 
-> 19. Use the filter function to get the list of add numbers from arr.
+> 19. Use the filter function to get the list of odd numbers from arr.
 ```
 let arr = [3, 4, 8, 1, 7, 4, 9];
 ```
